@@ -1,0 +1,17 @@
+{
+    "name": "servo-dc",
+    "version": "0.1.2",
+    "description": "Servo and DC Motor Driver",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "MotorDriver.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
