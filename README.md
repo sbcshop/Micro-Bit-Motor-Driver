@@ -31,3 +31,19 @@ A motor driver module designed for the BBC micro:bit. This module can drive 2 DC
 | P2 | Control pin P2 of Servo 3 |
 
 ## Programming Guide
+
+* First visit https://makecode.microbit.org/  and create new project, enter project name and create on Create button.
+* Click on Advanced , then on Extension as shown below
+
+![alt-text-1](images/add_ext1.png "Add extension")
+
+* Now copy and paste this github link in search bar and hit enter/search. as shown below.
+
+![alt-text-1](images/add_ext2.png "Add extension")
+
+* Now clear on Search Result to add it on current project, You can verify installation of extension by looking for "Motor Driver" extension as shown below.
+
+![alt-text-1](images/add_ext2.png "Add extension")
+
+Now you can use Motor driver extension feature to run/stop your motors.
+
