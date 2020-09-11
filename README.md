@@ -1,7 +1,7 @@
 # Micro-Bit-Motor-Driver
 A motor driver module designed for the BBC micro:bit. This module can drive 2 DC motors and 3 Servo motors.
 
-<img src="images/product_img.png" height="200" width="200" /><img src="images/product_with_microbit.png" height="200" width="200" />
+![alt-text-1](images/product_img.png "motor driver") ![alt-text-2](images/product_with_microbit.png "with microbit")
 
 ### Features
 * Micro:bit edge connector to connect Micro:Bit directly on module.
