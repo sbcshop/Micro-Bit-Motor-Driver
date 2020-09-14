@@ -49,3 +49,13 @@ Buy it from : https://shop.sb-components.co.uk/products/motor-driver-for-micro-b
 
 Now you can use Motor driver extension feature to run/stop your motors.
 
+### Video Tutorial
+
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=McogW_-nztw">
+     <img 
+      src="https://img.youtube.com/vi/McogW_-nztw/0.jpg" 
+      alt="SB Serial Expansion HAT for Raspberry Pi" 
+      style="width:100%;">
+      </a>
+    </div>
