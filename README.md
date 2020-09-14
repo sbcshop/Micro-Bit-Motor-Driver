@@ -41,7 +41,7 @@ Buy it from : https://shop.sb-components.co.uk/products/motor-driver-for-micro-b
 
 * Now copy and paste this github link (https://github.com/sbcshop/Micro-Bit-Motor-Driver) in search bar and hit enter/search. as shown below.
 
-![alt-text-1](images/add_ext2.png "Add extension")
+![alt-text-1](images/add_ext2_1.png "Add extension")
 
 * Now clear on Search Result to add it on current project, You can verify installation of extension by looking for "Motor Driver" extension as shown below.
 
